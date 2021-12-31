@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "funcs.h": "c",
+        "util_funcs.h": "c",
+        "goods.h": "c"
+    }
+}

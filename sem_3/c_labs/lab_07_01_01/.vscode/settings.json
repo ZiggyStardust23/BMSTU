@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "mysort.h": "c",
+        "funcs.h": "c",
+        "main_check.h": "c"
+    }
+}

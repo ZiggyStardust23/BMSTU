@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "matrix_utils.h": "c",
+        "matrix_math.h": "c",
+        "utils.h": "c",
+        "stdlib.h": "c",
+        "system_error": "c"
+    }
+}
